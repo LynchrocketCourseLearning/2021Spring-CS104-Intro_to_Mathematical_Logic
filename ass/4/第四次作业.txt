@@ -1,0 +1,5 @@
+(1) About concepts of object logic, meta-logic, object language, meta-language, conditional, antecedent, consequent, sufficient condition, necessary condition, sufficient and necessary condition, and material implication, explain the changes in your understanding before and after learning them in this course (in English, at least 2,000 words, or in Chinese, at least 4,000字).
+(2) About logic (including mathematical logics and philosophical logics), explain the changes in your understanding before and after learning it in this course (in English, at least 1,000 words, or in Chinese, at least 2,000字).
+
+(1)关于对象逻辑、元逻辑、对象语言、元语言、条件、前件、后件、充分条件、必要条件、充要条件，和实质蕴涵的概念，解释你在这门课学习这些概念之前和之后的理解变化(在英语中,至少2000字,或在中国,至少4000字)。
+(2)关于逻辑(包括数理逻辑与哲学逻辑)，解释你在这门课学习这些概念之前和之后的理解变化(在英语中,至少1000字,或在中国,至少2000字)。

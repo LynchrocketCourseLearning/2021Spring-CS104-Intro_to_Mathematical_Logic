@@ -1,0 +1,16 @@
+Read the following reading materials, find reference materials on the Internet, and write a report (in English, at least 1,000 words, or in Chinese, at least 2,000字) to answer： 
+（1） Why Mathematical Logic is indispensable to Mathematics, Computer Science, Intelligence Science, and Artificial Intelligence ?
+（2）What theories and applications you known (or found in reference materials) are based on Mathematical Logic ? Why ? 
+
+Reading materials：
+D.v.Dalen_Logic.and.Structure.4Ed_2008-Introduction4S.pdf
+H.B.Enderton_A.Mathematical.Introduction.to.Logic.2Ed_2001-Introduction4S.pdf
+J.H.Gallier_Logic.For.Computer.Science_Foundations.of.Automatic.Theorem.Proving_2003-C1Introduction4S.pdf
+J.R.Shoenfield_Mathematical.Logic_1967-C1S.pdf
+M.Ben-Ari_ML4CS.3Ed_2012-C01S.pdf
+S.Reeves_M.Clarke_Logic4CS_1990-C1S.pdf
+W.Rautenberg_A.Concise.Introduction.to.Mathematical.Logic.3Ed_2010-Introduction4S.pdf
+
+阅读下面的阅读材料,找参考资料在互联网上,并写一份报告(在英语中,至少1000字,或在中国,至少2000字)回答:
+(1)为什么数学、计算机科学、智能科学、人工智能都离不开数学逻辑?
+(2)你知道(或在参考资料中发现)哪些理论和应用是基于数学逻辑的?为什么?

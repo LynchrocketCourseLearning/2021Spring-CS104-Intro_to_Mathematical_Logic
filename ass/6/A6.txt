@@ -1,0 +1,58 @@
+6.1 Interpreting the propositional letter ‘p1’ as ‘It is raining’ and the letter ‘p2’ as ‘It is snowing’, express the form of each of the following English sentences in the language of CPC (the outermost brackets can be omitted):
+(a) It is raining.
+(b) It is not raining.
+(c) It is either raining or snowing.
+(d) It is both raining and snowing.
+(e) It is raining, but it is not snowing.
+(f) It is not both raining and snowing.
+(g) If it is not raining, then it is snowing.
+(h) It is not the case that if it is raining then it is snowing.
+(i) It is not the case that if it is snowing then it is raining.
+(j) It is raining if and only if it is not snowing.
+(k) It is neither raining nor snowing.
+(l) If it is both snowing and raining, then it is snowing.
+(m) If it is not raining, then it is not both snowing and raining.
+(n) Either it is raining, or it is both snowing and raining.
+(o) Either it is both raining and snowing or it is snowing but not raining.
+
+6.2 Prove that all the connectives ‘¬’,‘∧’,‘∨’, and ‘→’ can be defined using either logical connective ‘↑’ (¬∧, nand) or logical connective ‘↓’ (¬∨, nor), respectively.
+(a) ¬A = 
+(b) A ∨ B = 
+(c) A ∧ B = 
+(d) A → B = 
+   
+
+6.3 Let A, B, C, and D be formulas. Construct (and show) a truth-table for each of following formulas to determine whether the formula is a tautology, contradiction, or contingency.
+(a) A ∨ (¬A)
+(b) A ∧ (¬A)
+(c) ¬A ∨ B
+(d) (A∨B) ∧ (¬(A∧B))
+(e) ((¬A) ∨ (¬B)) ↔ (A∧B)
+(f) A → (B ∨ (¬C))
+(g) ((A∧B) ∧ (C∧D)) → A
+(h) (A↔((¬B) ∨ C)) → ((¬A) → B)
+
+6.4 Let A, B, C, D, and E be formulas. 
+(a) Use each of all letters at least twice to construct (and show) a formula and its truth-table such that it is a tautology.  
+(b) Use each of all letters at least twice to construct (and show) a formula and its truth-table such that it is a contradiction.  
+(c) Use each of all letters at least twice to construct (and show) a formula and its truth-table such that it is a contingency.  
+
+6.5 Let A, B, C, and D be formulas. For the following sets of formulas, construct truth-tables of formulas, and then check their consistency (satisfiability) (show your reasons).
+(a) { A → B, B → C, （C ∨ D） ↔ （¬B） }
+(b) { ¬(（¬B） ∨ A), A ∨ （¬C）, B → （¬C） }
+(c) { D → B, A ∨ （¬B）, ¬( D ∧ A), D }
+
+6.6 Let A, B, and C be formulas. Construct (and show) a truth-table for each of the following semantic (modeltheoretical, logical) consequence relations and use it to verify that whether the relation holds or not.
+(a) { A→B , A }⎥=CPC B
+(b) { A→B , B }⎥=CPC A
+(c) { A→B , B→C }⎥=CPC A→C
+(d) { A→B , A→(¬B) }⎥=CPC ¬A
+(e) A→B ⎥=CPC ¬(B→A)
+(f) { A∨B , B∨C }⎥=CPC A∨C
+(g) { A , ¬A }⎥=CPC B
+(h) C ⎥=CPC A ↔ (A ∨ (A∧B))
+
+
+6.7 Let A, B, C, D, and E be formulas. 
+(a) Use each of all letters at least twice to construct (and show) some formulas and their truth-tables for a semantic (model-theoretical, logical) consequence relation that holds.  
+(6) Use each of all letters at least twice to construct (and show) some formulas and their truth-tables for a semantic (model-theoretical, logical) consequence relation that does not hold. 

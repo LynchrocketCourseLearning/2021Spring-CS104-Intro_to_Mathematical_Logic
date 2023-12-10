@@ -1,0 +1,65 @@
+(1) About concepts of reasoning, proving, discovery, prediction, arguments, deduction, induction, and abduction, explain the changes in your understanding before and after learning them in this course.
+
+(2) Answer “true” or “false” to the following statements and explain your reasons:
+
+1. The purpose of the premise or premises is to set forth the reasons or evidence given in support of the conclusion.
+
+2. Some arguments have more than one conclusion.
+
+3. All arguments must have more than one premise.
+
+4. The words “therefore,” “hence,” “so,” “since,” and “thus” are all conclusion indicators.
+
+5. The words “for,” “because,” “as,” and “for the reason that” are all premise indicators. 6. In the strict sense of the terms, inference and argument have exactly the same meaning.
+
+7. In most (but not all) arguments that lack indicator words, the conclusion is the first statement. 8. Any sentence that is either true or false is a statement.
+
+9. Every statement has a truth value.
+
+10. Aristotle is the person usually credited with being the father of logic.
+
+11. Any passage that contains an argument must contain a claim that something is supported by evidence or reasons.
+
+12. In an argument, the claim that something is supported by evidence or reasons is always explicit.
+
+13. Passages that contain indicator words such as “thus,” “since,” and “because” are always arguments.
+
+14. In deciding whether a passage contains an argument, we should always keep an eye out for indicator words and the presence of an inferential relationship between the statements.
+
+15. Some expository passages can be correctly interpreted as arguments.
+
+16. Some passages containing “for example” can be correctly interpreted as arguments.
+
+17. In deciding whether an expository passage or an illustration should be interpreted as an argument, it helps to note whether the claim being developed or illustrated is one that is accepted by everyone.
+
+18. Some conditional statements can be reexpressed to form arguments.
+
+19. In an inductive argument, it is intended that the conclusion contain more information than the premises.
+
+20. In a deductive argument, the conclusion is not supposed to contain more information than the premises.
+
+21. The form of argumentation the arguer uses may allow one to determine whether an argument is inductive or deductive.
+
+22. The actual strength of the link between premises and conclusion may allow one to determine whether an argument is inductive or deductive.
+
+23. A geometrical proof is an example of an inductive argument.
+
+24. Most arguments based on statistical reasoning are deductive.
+
+25. If the conclusion of an argument follows merely from the definition of a word used in a premise, the argument is deductive.
+
+26. An argument that draws a conclusion about a thing based on that thing’s similarity to something else is a deductive argument.
+
+27. An argument that draws a conclusion that something is true because someone has said that it is, is a deductive argument.
+
+28. An argument that presents two alternatives and eliminates one, leaving the other as the conclusion, is an inductive argument.
+
+29. An argument that proceeds from knowledge of a cause to knowledge of an effect is an inductive argument.
+
+30. If an argument contains the phrase “it definitely follows that,” then we know for certain that the argument is deductive.
+
+31. An argument that predicts what will happen in the future, based on what has happened in the past, is an inductive argument.
+
+32. Inductive arguments always proceed from the particular to the general.
+
+33. Deductive arguments always proceed from the general to the particular

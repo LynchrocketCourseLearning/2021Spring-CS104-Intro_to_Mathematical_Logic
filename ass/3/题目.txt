@@ -1,0 +1,65 @@
+(1) About concepts of truth and validity, explain the changes in your understanding before and after learning them in this course (in English, at least 1,000 words, or in Chinese, at least 2,000字).
+(2) Answer “true” or “false” to the following statements and explain your reasons:
+1. Some arguments, while not completely valid, are almost valid.
+2. Inductive arguments allow for varying degrees of strength and weakness.
+3. Invalid deductive arguments are basically the same as inductive arguments.
+4. If a deductive argument has true premises and a false conclusion, it is necessarily invalid.
+5. A valid argument may have a false premise and a false conclusion.
+6. A valid argument may have a false premise and a true conclusion.
+7. A sound argument may be invalid.
+8. A sound argument may have a false conclusion.
+9. A strong argument may have false premises and a probably false conclusion.
+10. A strong argument may have true premises and a probably false conclusion.
+11. A cogent argument may have a probably false conclusion.
+12. A cogent argument must be inductively strong.
+13. If an argument has true premises and a true conclusion, we know that it is a perfectly good argument.
+(3) Use the counterexample method to prove each of the following arguments invalid.
+1. All galaxies are structures that contain black holes in the center, so all galaxies are quasars, since all quasars are structures that contain black holes in the center.
+2. Some farmworkers are not people who are paid decent wages, because no undocumented individuals are people who are paid decent wages, and some undocumented individuals are not farmworkers.
+3. No patrons of fast-food restaurants are health-food addicts. Consequently, no patrons of fast-food restaurants are connoisseurs of fine desserts, since no connoisseurs of fine desserts are health-food addicts.
+4. Some school boards are not groups that oppose values clarification, because some school boards are not organizations with vision, and some groups that oppose values clarification are not organizations with vision.
+5. Some improvers of humankind are not exploiters of personal information. As a result, some corporate social networks are not improvers of humankind, seeing that all corporate social networks are exploiters of personal information.
+6. If animal species are fixed and immutable, then evolution is a myth. Therefore, evolution is not a myth, since animal species are not fixed and immutable.
+7. If energy taxes are increased, then either the deficit will be reduced or conservation will be taken seriously. If the deficit is reduced, then inflation will be checked. Therefore, if energy taxes are increased, then inflation will be checked.
+8. All community colleges with low tuition are either schools with large enrollments or institutions supported by taxes. Therefore, all community colleges are institutions supported by taxes.
+9. All FHA loans are living-standard enhancers for the following reasons. All reverse mortgages that are FHA loans are either living-standard enhancers or home-equity depleters, and all reverse mortgages are home-equity depleters.
+
+(1)关于真理和有效性的概念,解释你的理解之前和之后的变化在这门课中学习他们(在英语中,至少1000字,或在中国,至少2000字)。
+(2)回答“对”或“错”，并解释你的理由。
+1. 有些论点虽然不是完全有效，但几乎是有效的。
+2. 归纳论证允许不同程度的优势和劣势。
+3.无效演绎论点基本上和归纳论点一样。
+4. 如果演绎论点有真前提和假结论，它必然无效。
+5. 一个有效论点可能有一个错误的前提和错误的结论。
+6. 一个有效论点可能有一个假前提和一个真结论。
+7. 一个合理的论点可能是无效的。
+8. 一个合理的论证可能有一个错误的结论。
+9. 一个强有力的论点可能有错误的前提和错误的结论。
+10. 一个强论点可能有真前提，也可能有假结论。
+11. 一个有说服力的论点可能得出错误的结论。
+12. 一个有说服力的论点必须归纳性强。
+13. 如果一个论点有真前提和真结论，我们知道这是一个完美的论点。
+(3)使用count - reexample方法证明以下参数无效。
+1. 所有的星系都是中心包含黑洞的结构，所以所有的星系都是类星体，因为所有的类星体都是中心包含黑洞的结构。
+2. 一些农场工人并没有得到体面的工资，因为没有没有合法身份的人会得到体面的工资，而一些非法身份的人并不是农场工人。
+3.快餐店的顾客中没有人是健康食品成瘾者。因此，快餐店的顾客都不是美味甜点的鉴赏家，因为美味甜点的鉴赏家都不是健康食品成瘾者。
+4. 有些校董会不是反对价值观澄清的组织，因为有些校董会不是有远见的组织，而有些反对价值观澄清的组织也不是有远见的组织。
+5. 一些人类的改良者并不是个人信息的剥削者。因此，一些企业社交网络并不是人类的改良者，所有的企业社交网络都是个人信息的开拓者。
+6. 如果动物物种是固定不变的，那么进化就是一个神话。因此，进化不是一个神话，因为动物物种不是固定不变的。
+7. 如果提高能源税，赤字要么会减少，要么会被认真对待。如果赤字减少了，通货膨胀就会得到抑制。因此，如果提高能源税，通货膨胀就会得到抑制。
+8. 所有低学费的社区大学要么是有大量招生的学校，要么是有税收支持的机构。因此，所有的社区学院都是由税收支持的机构。
+9. 所有联邦住房管理局贷款都是提高生活水平的工具，原因如下。所有联邦住房管理局的反向抵押贷款要么是提高生活水平的，要么是减少房屋净值的，所有反向抵押贷款都是减少房屋净值的。
+10. 一个强论点可能有真前提，也可能有假结论。
+11. 一个有说服力的论点可能得出错误的结论。
+12. 一个有说服力的论点必须归纳性强。
+13. 如果一个论点有真前提和真结论，我们知道这是一个完美的论点。
+(3)使用counterexample方法证明以下参数无效。
+1. 所有的星系都是中心包含黑洞的结构，所以所有的星系都是类星体，因为所有的类星体都是中心包含黑洞的结构。
+2. 一些农场工人并没有得到体面的工资，因为没有没有合法身份的人会得到体面的工资，而一些非法身份的人并不是农场工人。
+3.快餐店的顾客中没有人是健康食品成瘾者。因此，快餐店的顾客都不是美味甜点的鉴赏家，因为美味甜点的鉴赏家都不是健康食品成瘾者。
+4. 有些校董会不是反对价值观澄清的组织，因为有些校董会不是有远见的组织，而有些反对价值观澄清的组织也不是有远见的组织。
+5. 一些人类的改良者并不是个人信息的剥削者。因此，一些企业社交网络并不是人类的改良者，所有的企业社交网络都是个人信息的开拓者。
+6. 如果动物物种是固定不变的，那么进化就是一个神话。因此，进化不是一个神话，因为动物物种不是固定不变的。
+7. 如果提高能源税，赤字要么会减少，要么会被认真对待。如果赤字减少了，通货膨胀就会得到抑制。因此，如果提高能源税，通货膨胀就会得到抑制。
+8. 所有低学费的社区大学要么是有大量招生的学校，要么是有税收支持的机构。因此，所有的社区学院都是由税收支持的机构。
+9. 所有联邦住房管理局贷款都是提高生活水平的工具，原因如下。所有联邦住房管理局的反向抵押贷款要么是提高生活水平的，要么是减少房屋净值的，所有反向抵押贷款都是减少房屋净值的。

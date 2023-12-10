@@ -1,0 +1,89 @@
+8.1 Interpreting the symbols “F(x)” and “G(x)” as the predicates “x is a frog” and “x is green”, respectively, formalize each of the following sentences:
+(a) Frogs are green.
+(b) There is at least one green frog.
+(c) Some frogs are not green.
+(d) There are not any green frogs.
+(e) No frogs are green.
+(f) Frogs are not green.
+(g) Not everything that is a frog is green.
+
+8.2 Interpreting the symbols “R” as the sentence “It is raining” and the symbols “F(x)”, “G(x)”, “H(x)”, and “I(x)” as the predicates “x is a frog”, “x is green”, “x is hopping”, and “x is iridescent”, respectively, formalize each of the following sentences:
+(a) Everything is a frog.
+(b) Something is a frog.
+(c) Not everything is a frog.
+(d) Nothing is a frog.
+(e) Green frogs exist.
+(f) Everything is either green or iridescent.
+(g) Everything is a green frog.
+(h) It is raining and some frogs are hopping.
+(i) If it is raining, then all frogs are hopping.
+(j) Some things are green and some are not.
+(k) Some things are both green and iridescent.
+(l) Either everything is a frog or nothing is a frog.
+(m) Everything is either a frog or not a frog.
+(n) All frogs are frogs.
+(o) Only frogs are green.
+(p) Iridescent frogs do not exist.
+(q) All green frogs are hopping.
+(r) Some green frogs are not hopping.
+(s) It is not true that some green frogs are hopping.
+(t) If nothing is green, then green frogs do not exist.
+(u) Green frogs hop if and only if it isn't raining.
+
+8.3 Interpreting the symbols 'F(x)' and 'G(x)' as the predicates 'x is a frog' and 'x is green', respectively, formalize each of the following sentences:
+(a) If something is a frog, then it is green.
+(b) If anything at all is a frog, then something is green.
+(c) Anything that is a frog is green.
+(d) If anything is green, then frogs are green.
+(e) If everything is green, then frogs are green.
+(f) Invariably, frogs are green.
+(g) Occasionally, frogs are green.
+(h) A frog is green.
+(i) A frog is always green.
+(j) Only frogs are green.
+
+8.4 Formalize the following statements, interpreting the symbols 'a', 'b', and 'c' as the proper names 'Alex', 'Bob', and 'Cathy'; 'M(x)' and 'N(x)' as the one-place predicates 'x is a mechanic' and 'x is a nurse'; 'L(x,y)' and 'T(x,y)' as the two-place predicates 'x likes y' and 'x is taller than y'; and 'I(x,y,z)' as the three-place predicate 'x introduced y to z'.
+(a) Cathy is a mechanic.
+(b) Bob is a mechanic.
+(c) Cathy and Bob are mechanics.
+(d) Either Cathy or Bob is a mechanic.
+(e) Cathy is either a mechanic or a nurse (or both).
+(f) If Cathy is a mechanic, then she isn't a nurse.
+(g) Cathy is taller than Bob.
+(h) Bob likes Cathy.
+(i) Bob likes himself.
+(j) Cathy likes either Bob or Alex.
+(k) Alex introduced Cathy to Bob.
+(l) Cathy introduced herself to Bob but not to Alex.
+
+8.5 Formalize the following statements using the same interpretation as in Problem 8.4.
+(a) Bob likes nothing.
+(b) Nothing likes Bob.
+(c) Something likes itself.
+(d) There is something which Cathy does not like.
+(e) Cathy likes something which Bob likes.
+(f) There is something which both Bob and Cathy like.
+(g) There is something which Bob likes and something which Cathy likes.
+(h) If Bob likes himself, then he likes something.
+(i) If Bob does not likes himself, then he likes nothing.
+(j) If Bob likes something, then he likes everything.
+(k) Everything likes everything.
+(l) There is some one which is liked by everything.
+(m) Everything likes at least one thing.
+
+8.6 Formalize the following statements using the same interpretation as in Problem 8.4.
+(a) A mechanic likes Bob.
+(b) A mechanic likes herself.
+(c) Every mechanic likes Bob.
+(d) Bob likes a nurse.
+(e) Some mechanic likes every nurse.
+(f) There is a mechanic who is liked by every nurse.
+(g) Bob introduced a mechanic to Cathy.
+(h) A mechanic introduced Bob to Alex.
+(i) A mechanic introduced herself to Bob and Alex.
+(j) Cathy introduced a mechanic and a nurse to Bob.
+(k) Cathy introduced a mechanic to a nurse.
+(l) A mechanic introduced a nurse to Cathy.
+(m) Some mechanic introduced a nurse to a mechanic.
+
+8.7 Let SUST = F ∪ A ∪ S where F is the set of faculties, A is the set of administrative staffs, and S is the set of students. Define your predicates, functions, and constants on(in) SUST at first, and then formalize ten sentences about various propositions in SUST (write formula and give its English or Chinese interpretations).
